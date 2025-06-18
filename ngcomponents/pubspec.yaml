@@ -1,7 +1,7 @@
-name: ngcomponents
+name: angular_components_csp
 version: 3.0.0-dev.1
-description: Angular material components for AngularDart maintained by the community. 
-repository: https://github.com/angulardart-community/angular_components
+description: Fork from Angular material components
+repository: https://github.com/doozer-de/angular_components_csp
 
 environment:
   sdk: '>=2.17.0 <3.0.0'

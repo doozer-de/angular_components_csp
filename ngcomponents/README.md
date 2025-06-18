@@ -1,3 +1,7 @@
+This is a fork from ngcomponents repo.
+
+---------
+
 [Material design] components for [AngularDart].
 
 **Note**: this is an alpha release branch that has not been thoroughly tested.
